@@ -1,4 +1,4 @@
-# iris_ logistic_ Regression
+# iris_ KNN
 iris classification using logistic regression and Sk learn  
 This project focuses on the classification of Iris flower species using machine learning techniques in Python. The Iris dataset was used to develop and evaluate a classification model based on flower measurements such as sepal length, sepal width, petal length, and petal width.
 
